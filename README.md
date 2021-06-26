@@ -20,6 +20,6 @@ Or you can compile **DcardAdblock.xm** with your own setup (for newbie like me, 
 
 ## Outro
 
-I'm a newbie, so this tweak may has some bugs.
+I'm a newbie, so this tweak may have some bugs.
 
 Feel free to issue and pr!
