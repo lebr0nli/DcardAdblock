@@ -16,7 +16,7 @@ I try to learn something and make something in the process to make my life more 
 
 You can download and install the **.deb** in the release page to test my adblock for Dcard app.
 
-Or you can compile **DcardAdblock.xm** with your own setup (for newbie like my, you can use [MonkeyDev](https://github.com/AloneMonkey/MonkeyDev)).
+Or you can compile **DcardAdblock.xm** with your own setup (for newbie like me, you can use [MonkeyDev](https://github.com/AloneMonkey/MonkeyDev)).
 
 ## Outro
 
