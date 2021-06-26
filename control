@@ -1,0 +1,10 @@
+Package: com.alanli.DcardAdblock
+Name: DcardAdblock
+Version: 2021.06
+Description: No annoying and silly ad anymore.
+Section: System
+Depends: firmware (>= 5.0), mobilesubstrate
+Maintainer: Alan Li
+Author: Alan Li
+Section: Tweaks
+
